@@ -19,7 +19,7 @@ require_once __DIR__ . "/includes/header.php";
         </h1>
     </section>
 
-    <!-- Main content -->
+    <!-- Main contentt -->
     <section class="content">
         <div class="row">
             <div class="col-md-12">
