@@ -1,6 +1,6 @@
 {
-  "name": "rbsoft/sms-gateway",
-  "description": "Create your own SMS Gateway using your mobile phone.",
+  "name": "envoysms",
+  "description": "Create your own EnvoySMS using your mobile phone.",
   "version": "1.0.0",
   "require": {
     "php": ">=8.1",

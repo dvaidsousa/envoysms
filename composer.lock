@@ -3192,14 +3192,14 @@
             ],
             "authors": [
                 {
-                    "name": "Ravi Patel",
-                    "email": "support@rbsoft.org",
-                    "homepage": "https://rbsoft.org",
+                    "name": "Ravi",
+                    "email": "suporte@envoysms.com",
+                    "homepage": "https://envoysms.com",
                     "role": "Developer"
                 }
             ],
             "description": "Easily replace your existing session based authentication with JWT token-based authentication.",
-            "homepage": "https://github.com/ravibpatel/JWTSession",
+            "homepage": "https://envoysms.com",
             "keywords": [
                 "Authentication",
                 "jwt",
@@ -3207,7 +3207,7 @@
                 "token"
             ],
             "support": {
-                "email": "support@rbsoft.org",
+                "email": "suporte@envoysms.com",
                 "issues": "https://github.com/ravibpatel/jwt-session/issues",
                 "source": "https://github.com/ravibpatel/jwt-session/tree/v1.0.8"
             },

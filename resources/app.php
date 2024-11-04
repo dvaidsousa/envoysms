@@ -2,7 +2,7 @@
 
 $app_specific = [
     'application_title' => 'EnvoySMS',
-    'application_description' => 'Use Your Phone as SMS Gateway',
+    'application_description' => 'Use Your Phone as EnvoySMS',
     'application_version' => '9.4.5',
     'app_version_code' => 43,
     'company_name' => 'RBSoft',
