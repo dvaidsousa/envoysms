@@ -1,7 +1,7 @@
 <?php
 define('DB_SERVER', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_PASS', '010203');
 define('DB_NAME', 'sms_gateway');
 define('TIMEZONE', 'America/Sao_Paulo');
 define('APP_SECRET_KEY', 'u3E1lfK9B3J4wTJl7v4L5e7W');
